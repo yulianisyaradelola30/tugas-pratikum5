@@ -21,3 +21,4 @@ buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 * Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan berhenti jika kode berikut di eksekusi.
 
 * output
+![tambahdata](https://user-images.githubusercontent.com/57038763/72666744-bb702780-3a47-11ea-9dc2-b4be0ea2fe50.png)
