@@ -14,10 +14,10 @@ buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 
 # penjelasan
-daftar = {} Berikut adalah dictionary yang di definisikan terlebih dahulu.
-while True: Berikut adalah perulangan yang digunakan.
-Keluar
-if perintah.lower() == 'k':
-Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan berhenti jika kode berikut di eksekusi.
+1.daftar = {} Berikut adalah dictionary yang di definisikan terlebih dahulu.
+2.while True: Berikut adalah perulangan yang digunakan.
+3.Keluar
+* if perintah.lower() == 'k':
+* Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan berhenti jika kode berikut di eksekusi.
 
 * output
