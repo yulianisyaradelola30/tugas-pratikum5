@@ -45,12 +45,12 @@ buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 ![caridata](https://user-images.githubusercontent.com/57038763/72986636-3a37dc80-3e1b-11ea-8368-639002e2c805.png)
 
 
-#HAPUS DATA
+# HAPUS DATA
 
 
 ![hapusdata](https://user-images.githubusercontent.com/57038763/72986702-62274000-3e1b-11ea-845b-30bfb4023198.png)
 
-#KELUAR
+# KELUAR
 
 
 ![keluardata](https://user-images.githubusercontent.com/57038763/72986754-7e2ae180-3e1b-11ea-8a24-77fce6439a95.png)
